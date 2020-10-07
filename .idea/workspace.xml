@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="đẩy code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ảnh/index" beforeDir="false" afterPath="$PROJECT_DIR$/ảnh/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ảnh/index" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,15 +55,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\HTML" />
+      <recent name="G:\HTML\fuck" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\HTML\exportToHTML" />
       <recent name="G:\HTML\ảnh" />
       <recent name="G:\HTML\fuck\video" />
       <recent name="G:\HTML\media" />
-      <recent name="G:\HTML\fuck" />
-      <recent name="G:\HTML\imgs" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\HTML" />
       <recent name="G:\HTML\fuck" />
     </key>
   </component>
@@ -78,7 +79,7 @@
       <workItem from="1602032750289" duration="937000" />
       <workItem from="1602034878253" duration="40000" />
       <workItem from="1602034956126" duration="998000" />
-      <workItem from="1602035966949" duration="1052000" />
+      <workItem from="1602035966949" duration="1593000" />
     </task>
     <task id="LOCAL-00001" summary="đẩy code">
       <created>1602035550261</created>
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602038139865</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="đẩy code">
+      <created>1602038404272</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602038404272</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,9 +142,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="đẩy code" />
     <MESSAGE value="blabla" />
-    <option name="LAST_COMMIT_MESSAGE" value="blabla" />
+    <MESSAGE value="đẩy code" />
+    <option name="LAST_COMMIT_MESSAGE" value="đẩy code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602035419600">
