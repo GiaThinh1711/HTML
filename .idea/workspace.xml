@@ -74,7 +74,7 @@
       <workItem from="1601864148570" duration="11033000" />
       <workItem from="1602032750289" duration="937000" />
       <workItem from="1602034878253" duration="40000" />
-      <workItem from="1602034956126" duration="947000" />
+      <workItem from="1602034956126" duration="998000" />
     </task>
     <task id="LOCAL-00001" summary="đẩy code">
       <created>1602035550261</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602035747911</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="đẩy code">
+      <created>1602035908353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602035908353</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,10 +127,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601906820180" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602035596939">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602035910390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602035596939" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602035910390" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601870694304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
