@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="" />
+    <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="đẩy code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,12 +74,42 @@
       <workItem from="1601864148570" duration="11033000" />
       <workItem from="1602032750289" duration="937000" />
       <workItem from="1602034878253" duration="40000" />
-      <workItem from="1602034956126" duration="541000" />
+      <workItem from="1602034956126" duration="947000" />
     </task>
+    <task id="LOCAL-00001" summary="đẩy code">
+      <created>1602035550261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602035550262</updated>
+    </task>
+    <task id="LOCAL-00002" summary="đẩy code">
+      <created>1602035747911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602035747911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="đẩy code" />
+    <option name="LAST_COMMIT_MESSAGE" value="đẩy code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602035419600">
