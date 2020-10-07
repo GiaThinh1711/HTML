@@ -20,4 +20,9 @@ p{
     width: 600px;
     text-align: -moz-center ;
     background: none;
+    border: 1px solid firebrick;
+    text-shadow: 3px 3px 5px black;
+}
+img{
+    max-width: 100%;
 }

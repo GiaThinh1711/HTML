@@ -10,21 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="fgv">
-      <change afterPath="$PROJECT_DIR$/css/add to css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/css2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/imgs/11212312.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/imgs/IMG_7960.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/imgs/IMG_8032.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/imgs/LOGO PMC.png" afterDir="false" />
+    <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="PMC">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/COVID 19.html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/IPHONE FAKE.html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/SON.html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/T2008M.html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportToHTML/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/add to css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/add to css.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +80,7 @@
       <workItem from="1602032750289" duration="937000" />
       <workItem from="1602034878253" duration="40000" />
       <workItem from="1602034956126" duration="998000" />
-      <workItem from="1602035966949" duration="6956000" />
+      <workItem from="1602035966949" duration="8266000" />
     </task>
     <task id="LOCAL-00001" summary="đẩy code">
       <created>1602035550261</created>
@@ -171,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602040139115</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="PMC">
+      <created>1602045074307</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602045074307</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +188,8 @@
     <MESSAGE value="blabla" />
     <MESSAGE value="đẩy code" />
     <MESSAGE value="fgv" />
-    <option name="LAST_COMMIT_MESSAGE" value="fgv" />
+    <MESSAGE value="PMC" />
+    <option name="LAST_COMMIT_MESSAGE" value="PMC" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602043335842">
