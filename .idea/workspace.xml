@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="fgv" />
+    <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="fgv">
+      <change beforePath="$PROJECT_DIR$/COVID 19.html" beforeDir="false" afterPath="$PROJECT_DIR$/COVID 19.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +77,7 @@
       <workItem from="1602032750289" duration="937000" />
       <workItem from="1602034878253" duration="40000" />
       <workItem from="1602034956126" duration="998000" />
-      <workItem from="1602035966949" duration="1908000" />
+      <workItem from="1602035966949" duration="2466000" />
     </task>
     <task id="LOCAL-00001" summary="đẩy code">
       <created>1602035550261</created>
@@ -140,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602039230596</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fgv">
+      <created>1602039277587</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602039277587</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,10 +182,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601906820180" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602039234991">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602039283553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602039234991" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602039283553" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601870694304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
