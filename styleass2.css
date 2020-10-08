@@ -1,0 +1,26 @@
+img{
+    float: left;
+}
+span{
+    float: right;
+}
+body{
+    max-width: 200;
+    width: 700px;
+    margin-left: 300px;
+    margin-top: 100px;
+
+}
+p{
+    font-size: 14px;
+    font-family: "Times New Roman";
+}
+u{
+    font-size: 18px;
+    color: deeppink;
+}
+    h3 {
+        border-bottom: 1px dashed deeppink;
+    }
+
+
