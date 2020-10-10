@@ -1,0 +1,75 @@
+body{
+    text-align: left;
+    background-repeat: no-repeat;
+}
+#Nen2{
+    background-color: firebrick;
+    width: 2700px;
+    height: 400px;
+    text-align: center ;
+    margin-top: 40px;
+    float: none;
+    margin: auto;
+}
+h1{
+    font-size: 60px;
+    font-family: "Berlin Sans FB Demi";
+    padding-top: 60px;
+}
+h3{
+    font-size: 30px;
+    font-family: "Times New Roman";
+}
+#Nen3{
+    width: 430px;
+    height: 2000px;
+    background-color: darkgrey ;
+    margin-top: -180px;
+    margin-left: 60px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+p{
+    text-align: left;
+    margin-left: 40px;
+    font-size: 25px;
+}
+h2{
+    font-family: "Roboto Light";
+    font-size: 40px;
+    margin-left: -150px;
+}
+#cuaNen{
+    margin-top: 50px;
+    margin-left: 700px;
+    font-size: 40px;
+    font-family: "Britannic Bold";
+}
+h4{
+    border-bottom: 2px solid black;
+}
+#profile{
+    padding-left: 660px;
+}
+#edu{
+    font-size:40px;
+}
+#exper{
+    font-size:40px;
+}
+#pro{
+    font-size: 40px;
+}
+#table{
+    font-size: 25px;
+    margin-left: 100px;
+    line-height: 50px;
+}
+#pmc{
+    margin-left: 1400px;
+}

@@ -11,15 +11,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="sdc">
-      <change afterPath="$PROJECT_DIR$/LapS2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btvn1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/ass2/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOXMODEL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LapS3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add to LapS3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boxmodel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/imgs/121002000_1666456260180902_7394906046376835290_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/imgs/ava cua gt.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/imgs/barbara.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/imgs/css cua ass2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/imgs/home icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/imgs/hq1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/imgs/hq2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/imgs/hq3.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/indexlaps2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styleass2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btvn1.html" beforeDir="false" afterPath="$PROJECT_DIR$/btvn1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ảnh/covid19.1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ảnh/covid19.2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ảnh/covid19.3.png" beforeDir="false" />
@@ -53,7 +59,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/imgs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -66,17 +72,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\HTML\css" />
-      <recent name="G:\HTML" />
-      <recent name="G:\HTML\fuck" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\HTML\css\ass2" />
       <recent name="G:\HTML\css\imgs" />
       <recent name="G:\HTML\css\ảnh" />
       <recent name="G:\HTML\exportToHTML" />
       <recent name="G:\HTML\ảnh" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\HTML\css\imgs" />
+      <recent name="G:\HTML\css" />
+      <recent name="G:\HTML" />
+      <recent name="G:\HTML\fuck" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,7 +99,9 @@
       <workItem from="1602034878253" duration="40000" />
       <workItem from="1602034956126" duration="998000" />
       <workItem from="1602035966949" duration="21795000" />
-      <workItem from="1602164949595" duration="9977000" />
+      <workItem from="1602164949595" duration="21492000" />
+      <workItem from="1602316542870" duration="6143000" />
+      <workItem from="1602333696838" duration="3737000" />
     </task>
     <task id="LOCAL-00001" summary="đẩy code">
       <created>1602035550261</created>
@@ -192,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602046541843</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="sdc">
+      <created>1602180709836</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602180709836</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +231,8 @@
     <MESSAGE value="đẩy code" />
     <MESSAGE value="fgv" />
     <MESSAGE value="PMC" />
-    <option name="LAST_COMMIT_MESSAGE" value="PMC" />
+    <MESSAGE value="sdc" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602084105853">
@@ -226,14 +243,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601906820180" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602165110490">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602180861846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602165110490" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602180861846" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602165794572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602165794572" />
+    <state x="0" y="0" width="1169" height="810" key="dock-window-1" timestamp="1602207377572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1169" height="810" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602207377572" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601870694304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
