@@ -2,49 +2,6 @@ body{
     background-color: pink;
     background-size: auto;
     background-repeat: no-repeat;
-    background-image: -webkit-linear-gradient(left, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,0) 50%,
-    hsla(0,0%,0%,.015) 50%, hsla(0,0%,0%,.015) 100%),
-    -webkit-radial-gradient(hsla(0,0%,0%,.05) 10%, transparent 15%);
-    background-size: 1.5em 1.5em, .5em .5em;
-    font-family: sans-serif;
-    font-size: 100%;
-    line-height: 1.5;
-}
-figure {
-    float: left;
-    height: 6em;
-    margin: 1.5em;
-    width: 12em;
-    -webkit-transform: perspective(500);
-    -webkit-transform-style: preserve-3d;
-    -webkit-transition: 1.5s;
-}
-figure:hover {
-    -webkit-transform: perspective(500) rotateX(90deg) translateY(-3em) translateZ(3em);
-}
-img {
-    background-color: #222;
-    box-shadow: 0 20px 15px -10px hsla(0,0%,0%,.25);
-    display: block;
-    height: 100%;
-    -webkit-transition: .5s;
-}
-figure:hover img {
-    box-shadow: none;
-}
-figcaption {
-    background-color: #222;
-    color: #fff;
-    padding: 1.5em;
-    -webkit-transform: rotateX(-90deg);
-    -webkit-transform-origin: 100% 0;
-    -webkit-transition: 1.5s;
-}
-figure:hover figcaption {
-    box-shadow: 0 20px 15px -10px hsla(0,0%,0%,.25);
-}
-h3{
-    font-weight: bold;
 }
 #nen1{
     background-color: white;
@@ -53,11 +10,11 @@ h3{
     margin: auto;
 }
 h1{
-    padding-top: 30px;
-    margin-left: 1350px;
-    font-size: 60px;
-    font-family: Gabriola;
-
+    padding-top: 50px;
+    margin-left: 30px;
+    font-size: 50px;
+    font-family: Arial;
+    text-align: center;
 }
 img{
     width: 400px;
@@ -66,12 +23,12 @@ img{
     margin: 200px;
 }
 div{
+
     float: left;
 }
 .anh1{
     background-color: white;
     margin-top: 20px;
-    margin-left: 250px;
 }
 .anh2{
     background-color: white;
@@ -80,13 +37,13 @@ div{
 }
 .anh3{
     background-color: white;
-    margin-top: 90px;
-    margin-left: 255px;
+    margin-top: 20px;
+    margin-left: 380px;
 }
 .anh4{
     background-color: white;
-    margin-top: -1115px;
-    margin-left: 1450px;
+    margin-top: 50px;
+    margin-left: 1200px;
 
 }
 .black{
@@ -107,27 +64,5 @@ font-family: Gabriola;
     font-family: Gabriola;
     font-size: 40px;
     text-align: center;
-}
-#NEN{
-    background-color: lightblue;
-    width: 2500px;
-    height: 3000px;
-    margin-left: 250px;
-}
-#NEN{
-    animation-timing-function: linear;
-    animation-delay: 0s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    -webkit-animation-name: example;
-    -webkit-animation-duration: 4s;
-    animation-name: example;
-    animation-duration: 10s;
-}
-@keyframes example {
-    0% {background-color: crimson;}
-    25% {background-color: lightsalmon;}
-    50% {background-color: pink;}
-    100% {background-color: indigo;}
-}
 
+}
