@@ -11,10 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65319caa-4d5c-470d-9f8f-69f5dc7d7cc6" name="Default Changelist" comment="sdc">
+      <change afterPath="$PROJECT_DIR$/add to lapS5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add to ss4.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/imgs/4k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lapS5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LapS3.html" beforeDir="false" afterPath="$PROJECT_DIR$/LapS3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LapS4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/LapS4.2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add to LapS3.css" beforeDir="false" afterPath="$PROJECT_DIR$/add to LapS3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add to lapS4.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/add to lapS4.2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ảnh/covid19.1.png" beforeDir="false" />
@@ -97,7 +100,8 @@
       <workItem from="1602422550859" duration="8198000" />
       <workItem from="1602464812567" duration="20534000" />
       <workItem from="1602562086047" duration="5007000" />
-      <workItem from="1602600006171" duration="8464000" />
+      <workItem from="1602600006171" duration="18327000" />
+      <workItem from="1602752520544" duration="8314000" />
     </task>
     <task id="LOCAL-00001" summary="đẩy code">
       <created>1602035550261</created>
@@ -253,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602608805843</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="sdc">
+      <created>1602638357322</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602638357322</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,14 +311,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602600947599" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602608809317">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602638368812">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602608809317" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602605442167">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602638368812" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602638140633">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602605442167" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602638140633" />
     <state x="0" y="0" width="551" height="810" key="dock-window-1" timestamp="1602347373087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
