@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+    <link rel="stylesheet" href="add to ss4.css">
+</head>
+<body>
+<div class="survey">
+    <form action="#" method="get">
+        <input class="form-control" name="full_name" minlength="2" maxlength="15" type="text" placeholder="Full name" required/>
+        <input class="form-control" name="email" type="email" placeholder="Email" required/>
+        <input class="form-control" name="password" type="password" minlength="5" maxlength="20" placeholder="Password" required/>
+        <input class="form-control" name="age" type="number" min="18" max="60" placeholder="Age" required/>
+        <input class="form-control" name="birthday" type="date" placeholder="Birthday" required/>
+        <input class="form-control" name="mycolor" type="color" placeholder="My Color" />
+        <input class="form-control" name="price_range" type="range" min="0" max="100" required/>
+        <p>Giới tính</p>
+        <label><input name="sex" value="nam"  type="radio" required/>Male</label>
+        <label><input name="sex" value="nu"  type="radio" required/>Female</label>
+        <p>
+            <label><input required type="checkbox"  name="confirm"/>Tôi đã đọc và chấp nhận các điều khoản</label>
+        </p>
+        <p>Thành phố</p>
+        <select name="city">
+            <option value="hn">Hà Nội</option>
+            <option value="sg">Sài Gòn</option>
+            <option value="dn">Đà Nẵng</option>
+            <option value="hp">Hải Phòng</option>
+        </select>
+        <p>Nhận xét</p>
+        <textarea name="cmt" rows="10" cols="40" placeholder="Your comment"></textarea>
+        </br>
+        <button type="submit">Send</button>
+        <button type="button">Con chó ngu</button>
+        <button type="reset">Lại ngu</button>
+    </form>
+</div>
+
+</body>
+</html>
