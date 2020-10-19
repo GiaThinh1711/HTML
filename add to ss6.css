@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    color:#242424;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    float: none;
+}
+.header{
+    background-color: #ffffff;
+    border-bottom: 1px solid black;
+    padding: 20px 0;
+}
+.nav{
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+
+.logo{
+    width: 30%;
+    float: left;
+
+}
+.top-links{
+    width: 30%;
+    float: right;
+
+}
+.top-links li{
+    float: right;
+    list-style: none;
+    margin-left: 15px;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+}
+.menu .last-item{
+    float: right;
+    margin-right: 0;
+}
+.main{
+    padding-top: 30px;
+}
+.aside{
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+}
+.content{
+    float: left;
+    width: 66.67%;
+    padding-right: 15px;
+}
+.content-body{
+    float: left;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: auto;
+}
+.block{
+    float: left;
+    width: 100%;
+    padding: 30px;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+a{
+    color: #080e24;
+}
+.subcribe{
+    background-color: #1c203c;
+    color: white;
+    text-align: justify;
+}
+.chu{
+    width: 300px;
+    text-align: justify;
+    margin-left: 5px;
+}
+.D{
+    height: 40px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+#red{
+    width: 300px;
+    height: 40px;
+    background-color: firebrick;
+    margin-left: 7px;
+    margin-top: 18px;
+}
+#sub{
+    font-family: Gabriola;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;
+    border-radius: 100%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+h3{
+    margin-left: 5px;
+}
+h2{
+    font-size: 30px;
+}
+#this{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 25px;
+    font-family: Arial;
+}
+.last{
+    width: 300px;
+    height: 40px;
+}
+
+
