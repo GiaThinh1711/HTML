@@ -1,1 +1,1 @@
-<?php include("ss6.html");
+<?php include("ss7.html");
