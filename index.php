@@ -1,1 +1,1 @@
-<?php include("COVID 19.html");
+<?php include("ss6.html");
