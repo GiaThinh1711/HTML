@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #0000A4;
+}
+ul li{
+    float: left;
+    list-style: none;
+    width: 100px;
+    display: inline-table;
+}
+.head{
+    font-family: Verdana;
+    color: #CEEAEE;
+    font-size:16px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.nav_1{
+    text-align: center;
+    margin-top: 50px;
+    position: relative;
+}
+.nav_1 img{
+    border: 10px solid white;
+}
+.section_1{
+    text-align: center;
+    background-color: white;
+    height: 800px;
+    width: 670px;
+    margin-top: 50px;
+    margin-left: 235px;
+}
+.chu{
+    position: absolute;
+    top: 50px;
+    left: 25%;
+    font-size: 20px;
+    color: white;
+}
+.s_1{
+    font-family: Verdana;
+    color: #000000;
+    font-size:16px;
+    float: left;
+    margin-left: -480px;
+    margin-top: 50px;
+}
+
+.s_3{
+    font-family: Verdana;
+    color: #000000;
+    font-size:13px;
+    margin-left: 45px;
+    text-align: left;
+}
+.s_4{
+    float: left;
+    font-family: Verdana;
+    color: #000000;
+    font-size:16px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.s_5{
+    float: left;
+    text-align: left;
+}
+.s_6{
+    float: left;
+    font-family: Verdana;
+    color: #000000;
+    font-size:16px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.s_8{
+    float: left;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.s_9{
+    margin-top: -150px;
+}
+.foot{
+    margin-left: 425px;
+}
+
+
+
+
