@@ -1,1 +1,1 @@
-<?php include("ss7_2.html");
+<?php include("duademo.html");
